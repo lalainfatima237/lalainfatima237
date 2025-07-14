@@ -91,9 +91,9 @@ Grade: A
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lalainfatima237&layout=compact&theme=algolia)
 
 ---
+### 📈 GitHub Activity
 
-### 📈 GitHub Activity  
-[![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=lalainfatima237&theme=github-compact)](https://github.com/lalainfatima237)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lalainfatima237&theme=github-compact)](https://github.com/lalainfatima237)
 
 ---
 
