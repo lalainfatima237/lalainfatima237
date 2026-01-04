@@ -1,13 +1,5 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" style="vertical-align:middle" alt="hand wave"/> Hi, I'm Lalain Fatima</h1> 
-<!-- <h3 align="center">Web Developer | Python & Django Enthusiast | Passionate About Backend Development & AI Integration</h3> -->
-<h3>
-<span class="animated-text">Web Developer | Python & Django Enthusiast | Passionate About Backend Development & AI Integration</span>
-</h3>
-
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=900&lines=Web+Developer+%7C+Python+%26+Django+Enthusiast+%7C+Passionate+About+Backend+Development+%26+AI+Integration" />
-</h3>
+ <h3 align="center">Web Developer | Python & Django Enthusiast | Passionate About Backend Development & AI Integration</h3> 
 
 
 
