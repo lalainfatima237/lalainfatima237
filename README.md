@@ -74,3 +74,45 @@ Grade: A
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lalainfatima237&layout=compact&theme=algolia)
 
 ---
+### 🛠️ Tech Stack & Skills
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+---
+
+### 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lalainfatima237&show_icons=true&theme=algolia" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalainfatima237&layout=compact&theme=algolia" alt="Top Languages" />
+</p>
+
+### 📈 Contribution Activity
+[![Lalain's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lalainfatima237&theme=github-compact)](https://github.com/lalainfatima237)
+
+---
+
+### 🌐 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/lalain-fatima" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:lalainfatima4@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+<p align="center">
+  <strong>Profile Views</strong><br>
+  <img src="https://komarev.com/ghpvc/?username=lalainfatima237&label=VIEWS&color=0e75b6&style=flat" alt="Views" />
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+</p>
