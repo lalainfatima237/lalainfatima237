@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" style="vertical-align:middle" alt="hand wave"/>Hi, I'm Lalain Fatima</h1> 
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" style="vertical-align:middle" alt="hand wave"/> Hi, I'm Lalain Fatima</h1> 
 <h3 align="center">Web Developer | Python & Django Enthusiast | Passionate About Backend Development & AI Integration</h3>
 
 
