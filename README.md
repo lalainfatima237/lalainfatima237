@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lalain Fatima</h1>
 <h3 align="center">Web Developer | Python & Django Enthusiast | Passionate About Backend Development & AI Integration</h3>
 
+
+---
+
 ### 💫 About Me
 
 I'm an aspiring and dedicated Web Developer with a passion for building efficient, scalable, and user-focused web applications. With hands-on experience in Python, Django, REST APIs, and frontend technologies, I aim to contribute to impactful solutions that blend innovation with performance. I thrive on challenges and am always eager to explore new technologies and expand my skillset.
