@@ -55,12 +55,24 @@ Grade: A
 
 ---
 
-### 📬 Contact Me
+<h2 align="center">📬 Connect With Me</h2>
 
-- 📧 Email: [lalainfatima4@gmail.com](mailto:lalainfatima4@gmail.com) / [fatimalalain237@gmail.com](mailto:fatimalalain237@gmail.com)  
-- 📱 Phone: +92 321 240 2616  
-- 🔗 LinkedIn: [linkedin.com/in/lalain-fatima](https://www.linkedin.com/in/lalain-fatima/)  
-- 💻 GitHub: [github.com/lalainfatima237](https://github.com/lalainfatima237)
+<p align="center">
+  <a href="https://www.linkedin.com/in/lalain-fatima/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:lalainfatima4@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/lalainfatima237" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+
+</p>
+
 
 ---
 
