@@ -1,6 +1,12 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" style="vertical-align:middle" alt="hand wave"/> Hi, I'm Lalain Fatima</h1> 
-<h3 align="center">Web Developer | Python & Django Enthusiast | Passionate About Backend Development & AI Integration</h3>
+<!-- <h3 align="center">Web Developer | Python & Django Enthusiast | Passionate About Backend Development & AI Integration</h3> -->
+<h3>
+<span class="animated-text">Web Developer | Python & Django Enthusiast | Passionate About Backend Development & AI Integration</span>
+</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=24&pause=1000&color=00FF00&center=true&width=600&lines=Web+Developer|Python+%26+Django+Enthusiast|Passionate+About+Backend+Development+%26+AI+Integration" alt="Typing Animation"/>
+</p>
 
 
 
