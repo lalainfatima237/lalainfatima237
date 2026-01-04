@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lalain Fatima</h1> 
+<h1 align="center">👋 Hi, I'm Lalain Fatima</h1> 
 <h3 align="center">Web Developer | Python & Django Enthusiast | Passionate About Backend Development & AI Integration</h3>
 
 
