@@ -69,11 +69,6 @@ Grade: A
 
 ---
 
-### 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lalainfatima237&show_icons=true&theme=algolia)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lalainfatima237&layout=compact&theme=algolia)
-
----
 <!-- ================= TECH STACK & SKILLS ================= -->
 
 <h2 align="center">🛠️ Tech Stack & Skills</h2>
