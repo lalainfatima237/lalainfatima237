@@ -120,7 +120,7 @@ Grade: A
 
 ---
 
-### 📊 GitHub Stats & Activity
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lalainfatima237&show_icons=true&theme=algolia" alt="GitHub Stats" />
@@ -133,6 +133,3 @@ Grade: A
 [![Lalain Fatima's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=lalainfatima237&bg_color=0d1117&color=58a6ff&line=2f81f7&point=ffffff&area=true&hide_border=true)](https://github.com/lalainfatima237)
 
 ---
-## 🔥 GitHub Contribution Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lalainfatima237&theme=dark&hide_border=true)
