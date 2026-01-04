@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lalain Fatima</h1>
+<!-- <h1 align="center">Hi 👋, I'm Lalain Fatima</h1>
 <h3 align="center">Web Developer | Python & Django Enthusiast | Passionate About Backend Development & AI Integration</h3>
 
 ---
@@ -136,4 +136,5 @@ Grade: A
 
 > “Code like poetry should be short and meaningful. Don’t just write code that works — write code that speaks.”
 
----
+--- -->
+<img width="1363" height="845" alt="image" src="https://github.com/user-attachments/assets/f1c535fd-d934-4249-b558-6a15e1738997" />
