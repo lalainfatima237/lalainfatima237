@@ -1,6 +1,20 @@
 <h1 align="center">Hi 👋, I'm Lalain Fatima</h1>
 <h3 align="center">Web Developer | Python & Django Enthusiast | Passionate About Backend Development & AI Integration</h3>
+<div align="center">
+  <h1>👋 Hi there! I'm Lalain Fatima</h1>
 
+  <h2 style="color: #00DBFF; font-family: monospace;">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00DBFF&center=true&vCenter=true&width=435&lines=Web+Developer;Python+%26+Django+Enthusiast;Automation+Expert;Backend+%26+AI+Integration" alt="Typing SVG" />
+    </a>
+  </h2>
+
+  <p>
+    <strong>Python & Django Developer | Backend Systems | API Architecture</strong>
+  </p>
+</div>
+
+<hr />
 ---
 
 ### 💫 About Me
