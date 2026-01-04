@@ -139,7 +139,10 @@ Grade: A
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalainfatima237&layout=compact&theme=algolia" alt="Top Languages" />
 </p>
+
+
 ---
+
 ## 📈 Contribution Activity
 
 [![Lalain Fatima's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=lalainfatima237&bg_color=0d1117&color=58a6ff&line=2f81f7&point=ffffff&area=true&hide_border=true)](https://github.com/lalainfatima237)
