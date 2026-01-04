@@ -83,7 +83,7 @@ Grade: A
 
 <!-- ================= TECH STACK & SKILLS ================= -->
 
-<h2 align="center">🛠️ Tech Stack & Skills</h2>
+<h2 align="left">🛠️ Tech Stack & Skills</h2>
 
 <!-- Languages & Frameworks -->
 <h3 align="center">🧑‍💻 Languages & Frameworks</h3>
