@@ -1,7 +1,11 @@
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" style="vertical-align:middle" alt="hand wave"/> Hi, I'm Lalain Fatima</h1> 
- <h3 align="center">Web Developer | Python & Django Enthusiast | Passionate About Backend Development & AI Integration</h3> 
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" style="vertical-align:middle" alt="hand wave"/>
+  Hi, I'm Lalain Fatima
+</h1>
 
-
+<h3 align="center">
+  Web Developer | Python & Django Enthusiast | Passionate About Backend Development & AI Integration
+</h3>
 
 ---
 
@@ -15,29 +19,30 @@ I'm an aspiring and dedicated Web Developer with a passion for building efficien
 
 *Intern | JS Technologies*  
 📍 Lahore, Pakistan &nbsp;|&nbsp; 📅 August 2024 – January 2025  
-- Contributed to the development of an HRM system, Real-time Chat Application, and Travel Website.  
-- Worked with technologies including Django, Django REST Framework, WebSocket, and Bootstrap.  
-- Gained experience in building scalable backend systems and responsive frontend interfaces.
+
+- Contributed to the development of an *HRM System, **Real-time Chat Application, and **Travel Website*  
+- Worked with *Django, Django REST Framework, WebSocket, and Bootstrap*  
+- Gained hands-on experience in scalable backend systems and responsive UI development  
 
 ---
 
 ### 🚀 Featured Projects
 
-*🎓 Intelliesense Chatbot (Final Year Project)*  
-AI-based university assistant chatbot for handling student queries.  
-*Tech Stack:* Django, OpenAI API, JWT, LlamaIndex, REST API, React.js
+#### 🎓 Intellisense Chatbot (Final Year Project)
+AI-based university assistant chatbot for handling student queries  
+*Tech Stack:* Django, OpenAI API, JWT, LlamaIndex, REST API, React.js  
 
-*💼 Human Resource Management System*  
-Complete HRM system for employee data, attendance, payroll, and performance tracking.  
-*Tech Stack:* Django, DRF, SQLite, Bootstrap, HTML, CSS
+#### 💼 Human Resource Management System
+Complete HRM solution for employee records, attendance, payroll & performance  
+*Tech Stack:* Django, DRF, SQLite, Bootstrap, HTML, CSS  
 
-*💬 Real-Time Chat Application*  
-One-to-one real-time messaging using WebSocket and Django Channels.  
-*Tech Stack:* Django, WebSocket, Channels, HTML5, Bootstrap
+#### 💬 Real-Time Chat Application
+One-to-one real-time messaging using WebSocket & Django Channels  
+*Tech Stack:* Django, WebSocket, Channels, HTML5, Bootstrap  
 
-*✈️ Travel Booking Website*  
-Fully responsive website allowing users to search, book, and manage travel plans.  
-*Tech Stack:* Django, Bootstrap, HTML5, CSS3
+#### ✈️ Travel Booking Website
+Responsive website for searching, booking & managing travel plans  
+*Tech Stack:* Django, Bootstrap, HTML5, CSS3  
 
 ---
 
@@ -45,15 +50,15 @@ Fully responsive website allowing users to search, book, and manage travel plans
 
 *BS in Computer Science*  
 University of Jhang (2021 – 2025)  
-GPA: 3.00 / 4.00  
+🎓 GPA: 3.00 / 4.00  
 
 *Intermediate in Computer Science (ICS)*  
 Punjab Group of Colleges (2019 – 2021)  
-Grade: A  
+🏅 Grade: A  
 
 *Matriculation*  
 Cadet College Jhang (2017 – 2019)  
-Grade: A  
+🏅 Grade: A  
 
 ---
 
@@ -63,32 +68,24 @@ Grade: A
   <a href="https://www.linkedin.com/in/lalain-fatima/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
   <a href="mailto:lalainfatima4@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-
   <a href="https://github.com/lalainfatima237" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-
-
 </p>
-
 
 ---
 
-### 🏆 GitHub Trophies  
+### 🏆 GitHub Trophies
 [![Trophies](https://github-profile-trophy.vercel.app/?username=lalainfatima237&theme=dracula&no-frame=true&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-<!-- ================= TECH STACK & SKILLS ================= -->
+## 🛠️ Tech Stack & Skills
 
-<h2 align="left">🛠️ Tech Stack & Skills</h2>
-
-<!-- Languages & Frameworks -->
-<h3 align="center">🧑‍💻 Languages & Frameworks</h3>
+### 🧑‍💻 Languages & Frameworks
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -98,30 +95,26 @@ Grade: A
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery"/>
 </p>
 
-<!-- Frontend Tools -->
-<h3 align="center">🌐 Frontend Tools</h3>
+### 🌐 Frontend Tools
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap"/>
 </p>
 
-<!-- Backend & APIs -->
-<h3 align="center">⚙️ Backend & APIs</h3>
+### ⚙️ Backend & APIs
 <p align="center">
   <img src="https://img.shields.io/badge/Django_REST_Framework-ff1709?style=for-the-badge&logo=django"/>
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens"/>
   <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge"/>
 </p>
 
-<!-- Databases -->
-<h3 align="center">🗄️ Databases</h3>
+### 🗄️ Databases
 <p align="center">
   <img src="https://img.shields.io/badge/SQLite3-003B57?style=for-the-badge&logo=sqlite"/>
 </p>
 
-<!-- Other Skills -->
-<h3 align="center">🔧 Other Skills</h3>
+### 🔧 Other Skills
 <p align="center">
   <img src="https://img.shields.io/badge/OOP-4B8BBE?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Data_Scraping-6A1B9A?style=for-the-badge"/>
@@ -129,24 +122,32 @@ Grade: A
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </p>
 
-<!-- ======================================================= -->
-
-
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lalainfatima237&show_icons=true&theme=algolia" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalainfatima237&layout=compact&theme=algolia" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lalainfatima237&show_icons=true&theme=algolia"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalainfatima237&layout=compact&theme=algolia"/>
 </p>
-
 
 ---
 
 ## 📈 Contribution Activity
 
-[![Lalain Fatima's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=lalainfatima237&bg_color=0d1117&color=58a6ff&line=2f81f7&point=ffffff&area=true&hide_border=true)](https://github.com/lalainfatima237)
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=lalainfatima237&bg_color=0d1117&color=58a6ff&line=2f81f7&point=ffffff&area=true&hide_border=true)](https://github.com/lalainfatima237)
 
 ---
+
+![Contribution Snake](https://github.com/ProgrammerDATCH/ProgrammerDATCH/blob/output/github-contribution-grid-snake-dark.svg)
+
+<h2 align="center">👀 Profile Views</h2>
+<div align="center">
+  <img src="https://count.getloli.com/@:lalainfatima237?theme=booru-twifanartsfw&padding=7&pixelated=1"/>
+</div>
+
+---
+
+### 💡 Final Thought
+> “Great developers don’t just write code, they design solutions.”
