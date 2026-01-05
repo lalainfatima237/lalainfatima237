@@ -85,7 +85,8 @@ Cadet College Jhang (2017 – 2019)
 
 ## 🛠️ Tech Stack & Skills
 
-### 🧑‍💻 Languages & Frameworks
+
+<h3 align="center">🧑‍💻 Languages & Frameworks</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -95,7 +96,8 @@ Cadet College Jhang (2017 – 2019)
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery"/>
 </p>
 
-### 🌐 Frontend Tools
+
+<h3 align="center"> 🌐 Frontend Tools</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
@@ -103,6 +105,7 @@ Cadet College Jhang (2017 – 2019)
 </p>
 
 ### ⚙️ Backend & APIs
+<h3 align="center">⚙️ Backend & APIs</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Django_REST_Framework-ff1709?style=for-the-badge&logo=django"/>
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens"/>
@@ -110,11 +113,13 @@ Cadet College Jhang (2017 – 2019)
 </p>
 
 ### 🗄️ Databases
+<h3 align="center">🗄️ Databases</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/SQLite3-003B57?style=for-the-badge&logo=sqlite"/>
 </p>
 
 ### 🔧 Other Skills
+<h3 align="center">🔧 Other Skills</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/OOP-4B8BBE?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Data_Scraping-6A1B9A?style=for-the-badge"/>
