@@ -24,25 +24,6 @@ I'm an aspiring and dedicated Web Developer with a passion for building efficien
 - Worked with *Django, Django REST Framework, WebSocket, and Bootstrap*  
 - Gained hands-on experience in scalable backend systems and responsive UI development  
 
----
-
-### 🚀 Featured Projects
-
-#### 🎓 Intellisense Chatbot (Final Year Project)
-AI-based university assistant chatbot for handling student queries  
-*Tech Stack:* Django, OpenAI API, JWT, LlamaIndex, REST API, React.js  
-
-#### 💼 Human Resource Management System
-Complete HRM solution for employee records, attendance, payroll & performance  
-*Tech Stack:* Django, DRF, SQLite, Bootstrap, HTML, CSS  
-
-#### 💬 Real-Time Chat Application
-One-to-one real-time messaging using WebSocket & Django Channels  
-*Tech Stack:* Django, WebSocket, Channels, HTML5, Bootstrap  
-
-#### ✈️ Travel Booking Website
-Responsive website for searching, booking & managing travel plans  
-*Tech Stack:* Django, Bootstrap, HTML5, CSS3  
 
 ---
 
