@@ -1,15 +1,3 @@
-# 👋 Hi there! I'm [Aapka Naam]
-
-## REST API Engineer
-**Python & Django Developer | Backend Systems | API Architecture**
-
-![Aapka Banner Yahan Lagayen](link-to-your-image)
-
----
-
-### 📊 My Stats
-![Profile views](https://komarev.com/ghpvc/?username=aapka-username&color=blue)
-![Followers](https://img.shields.io/github/followers/aapka-username?style=social)
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" style="vertical-align:middle" alt="hand wave"/>
   Hi, I'm Lalain Fatima
