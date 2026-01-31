@@ -31,7 +31,7 @@ I'm an aspiring and dedicated Web Developer with a passion for building efficien
 
 *BS in Computer Science*  
 University of Jhang (2021 – 2025)  
-🎓 GPA: 3.00 / 4.00  
+🎓 GPA: 3.04 / 4.00  
 
 *Intermediate in Computer Science (ICS)*  
 Punjab Group of Colleges (2019 – 2021)  
