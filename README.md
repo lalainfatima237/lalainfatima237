@@ -68,7 +68,9 @@ Cadet College Jhang (2017 – 2019)
 
 ### 🏆 GitHub Trophies  
 [![Trophies](https://github-profile-trophy.vercel.app/?username=lalainfatima237&theme=dracula&no-frame=true&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lalainfatima237&theme=radical&no-frame=true&no-bg=true&margin-w=10"/>
+</p>
 ---
 
 ## 🛠️ Tech Stack & Skills
@@ -135,17 +137,13 @@ Cadet College Jhang (2017 – 2019)
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalainfatima237&layout=compact&theme=algolia"/>
 </p> -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lalainfatima237&show_icons=true&theme=tokyonight&count_private=true"/>
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lalainfatima237&theme=tokyonight"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalainfatima237&layout=compact&theme=tokyonight&cache_seconds=1800"/>
-</p>
+
 
 ---
 
