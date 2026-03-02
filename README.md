@@ -130,10 +130,21 @@ Cadet College Jhang (2017 – 2019)
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lalainfatima237&show_icons=true&theme=algolia"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalainfatima237&layout=compact&theme=algolia"/>
+</p> -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lalainfatima237&show_icons=true&theme=tokyonight&count_private=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lalainfatima237&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalainfatima237&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
