@@ -3,6 +3,10 @@
   Hi, I'm Lalain Fatima
 </h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;Python+%26+Django+Developer;Backend+Engineer;AI+Integration+Enthusiast&center=true&width=500&height=45&color=0e75b6&vCenter=true&size=22">
+</p>
+
 <h3 align="center">
   Web Developer | Python & Django Enthusiast | Passionate About Backend Development & AI Integration
 </h3>
