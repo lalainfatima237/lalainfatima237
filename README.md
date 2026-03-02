@@ -1,4 +1,4 @@
-<h1 align="center">
+<!-- <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" style="vertical-align:middle" alt="hand wave"/>
   Hi, I'm Lalain Fatima
 </h1>
@@ -154,4 +154,130 @@ Cadet College Jhang (2017 – 2019)
 ---
 
 ### 💡 Final Thought
+> “Great developers don’t just write code, they design solutions.” -->
+
+
+
+
+
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
+  Hi, I'm Lalain Fatima
+</h1>
+
+<h3 align="center">
+Web Developer | Python & Django Developer | Backend & AI Integration Enthusiast
+</h3>
+
+---
+
+## 💫 About Me
+
+I'm a passionate and dedicated Web Developer with strong hands-on experience in building scalable backend systems and responsive web applications.
+
+- 🔭 Focused on Backend Development & AI Integration  
+- 🌱 Exploring Advanced Django Architecture  
+- 💡 Love solving real-world problems with clean code  
+- 🎯 Goal: Become a highly skilled Backend Engineer  
+
+---
+
+## 📊 Profile Analytics
+
+<p align="center">
+  <!-- Profile Views -->
+  <img src="https://count.getloli.com/@:lalainfatima237?theme=booru-twifanartsfw&padding=7&pixelated=1"/>
+  <br/><br/>
+
+  <!-- Followers -->
+  <img src="https://img.shields.io/github/followers/lalainfatima237?label=Followers&style=for-the-badge&color=blue"/>
+  
+  <br/><br/>
+
+  <!-- Total Stars -->
+  <img src="https://img.shields.io/github/stars/lalainfatima237?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=yellow"/>
+</p>
+
+---
+
+## 💼 Work Experience
+
+### Intern | JS Technologies  
+📍 Lahore, Pakistan | 📅 August 2024 – January 2025  
+
+- HRM System Development  
+- Real-time Chat Application  
+- Travel Website  
+- Django, DRF, WebSocket, Bootstrap  
+
+---
+
+## 🎓 Education
+
+**BS Computer Science**  
+University of Jhang (2021 – 2025)  
+GPA: 3.04 / 4.00  
+
+**ICS** – Punjab Group of Colleges (2019 – 2021)  
+Grade: A  
+
+**Matriculation** – Cadet College Jhang (2017 – 2019)  
+Grade: A  
+
+---
+
+## 🛠️ Tech Stack
+
+### 👩‍💻 Languages
+Python | JavaScript  
+
+### 🌐 Frontend
+HTML | CSS | Bootstrap | React | jQuery  
+
+### ⚙️ Backend
+Django | Django REST Framework | JWT | WebSocket  
+
+### 🗄️ Database
+SQLite | MySQL  
+
+### 🚀 Deployment
+Vercel  
+
+### 🔧 Other
+OOP | Git | GitHub | REST APIs  
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lalainfatima237&show_icons=true&theme=algolia"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalainfatima237&layout=compact&theme=algolia"/>
+</p>
+
+---
+
+## 📬 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/lalain-fatima/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:lalainfatima4@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/lalainfatima237">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 💡 Quote
+
 > “Great developers don’t just write code, they design solutions.”
+
+---
+
+⭐ If you like my work, consider following me!
