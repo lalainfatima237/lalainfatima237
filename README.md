@@ -63,12 +63,8 @@ Cadet College Jhang (2017 – 2019)
   </a>
 </p>
 
----### 🏆 GitHub Trophies  
+ 🏆 GitHub Trophies  
 [![Trophies](https://github-profile-trophy.vercel.app/?username=lalainfatima237&theme=dracula&no-frame=true&row=2&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-### 🏆 GitHub Trophies  
-[![Trophies](https://github-profile-trophy.vercel.app/?username=lalainfatima237&theme=dracula&no-frame=true&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
