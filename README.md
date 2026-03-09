@@ -18,7 +18,7 @@ I'm an aspiring and dedicated Web Developer with a passion for building efficien
 ### 💼 Work Experience
 
 *Intern | JS Technologies*  
-📍 Lahore, Pakistan &nbsp;|&nbsp; 📅 August 2024 – January 2025  
+📍 Lahore, Pakistan &nbsp;|&nbsp; 📅 August 2024 – August 2025  
 
 - Contributed to the development of an *HRM System, **Real-time Chat Application, and **Travel Website*  
 - Worked with *Django, Django REST Framework, WebSocket, and Bootstrap*  
