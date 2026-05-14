@@ -104,7 +104,7 @@ Cadet College Jhang (2017 – 2019)
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens"/>
   <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge"/>
 </p>
-<p align="center"> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens"/> <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge"/> </p>
+<!-- <p align="center"> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens"/> <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge"/> </p> -->
 
 
 <h3 align="center">🗄️ Databases</h3>
