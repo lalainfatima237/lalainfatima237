@@ -108,10 +108,10 @@ Cadet College Jhang (2017 – 2019)
 
 
 <h3 align="center">🗄️ Databases</h3>
-<p align="center">
+<!-- <p align="center">
   <img src="https://img.shields.io/badge/SQLite3-003B57?style=for-the-badge&logo=sqlite"/>
    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+</p> -->
  <p align="center"> <img src="https://img.shields.io/badge/SQLite3-003B57?style=for-the-badge&logo=sqlite"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> </p>
 
 
