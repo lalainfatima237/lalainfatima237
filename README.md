@@ -85,8 +85,8 @@ Cadet College Jhang (2017 – 2019)
 </p>
 <p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> </p>
 
-<h3 align="center"> 🌐 Frontend Tools</h3>
-<p align="center"> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap"/> </p>
+<!-- <h3 align="center"> 🌐 Frontend Tools</h3>
+<p align="center"> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap"/> </p> -->
 
 
 <h3 align="center"> 🧩 Frameworks & Libraries</h3>
