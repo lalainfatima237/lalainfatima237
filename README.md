@@ -129,6 +129,7 @@ Cadet College Jhang (2017 – 2019)
   <img src="https://img.shields.io/badge/Data_Scraping-6A1B9A?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+ <img src="https://img.shields.io/badge/AI_Automation-FF6F00?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
 
