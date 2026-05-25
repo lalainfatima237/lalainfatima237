@@ -106,12 +106,20 @@ Cadet College Jhang (2017 – 2019)
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django_REST_Framework-ff1709?style=for-the-badge&logo=django"/>
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens"/>
+ <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white"/>
   <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 <!-- <p align="center"> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens"/> <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge"/> </p> -->
 
-
+<h3 align="center">🧪 Testing & API Tools</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+  <img src="https://img.shields.io/badge/API_Testing-4CAF50?style=for-the-badge&logo=testinglibrary&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</p>
 <h3 align="center">🗄️ Databases</h3>
 <!-- <p align="center">
   <img src="https://img.shields.io/badge/SQLite3-003B57?style=for-the-badge&logo=sqlite"/>
