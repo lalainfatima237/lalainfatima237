@@ -11,7 +11,8 @@
 
 ### 💫 About Me
 
-I'm an aspiring and dedicated Web Developer with a passion for building efficient, scalable, and user-focused web applications. With hands-on experience in Python, Django, REST APIs, and frontend technologies, I aim to contribute to impactful solutions that blend innovation with performance. I thrive on challenges and am always eager to explore new technologies and expand my skillset.
+I'm an aspiring and dedicated **Backend Developer** with a strong foundation in Python and Django. I enjoy building secure, scalable, and high-performance backend systems, designing RESTful APIs, and working with databases. I have hands-on experience in Python, Django, REST APIs, MySQL, and data scraping, with a growing interest in AI integration. I am passionate about writing clean, efficient code and continuously learning new technologies to develop reliable and impactful software solutions.
+
 
 ---
 
