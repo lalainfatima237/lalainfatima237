@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-  Web Developer | Python & Django Enthusiast | Passionate About Backend Development & AI Integration
+  Backend Developer | Python • Django • FastAPI • Data Scraping • AI Integration
 </h3>
 
 ---
