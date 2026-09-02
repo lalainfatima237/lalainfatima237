@@ -32,7 +32,7 @@ I'm an aspiring and dedicated **Backend Developer** with a strong foundation in 
 
 *BS in Computer Science*  
 University of Jhang (2021 – 2025)  
-🎓 GPA: 3.04 / 4.00  
+🏅 Grade: B
 
 *Intermediate in Computer Science (ICS)*  
 Punjab Group of Colleges (2019 – 2021)  
