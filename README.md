@@ -18,7 +18,7 @@ I'm an aspiring and dedicated **Backend Developer** with a strong foundation in 
 
 ### 💼 Work Experience
 
-*Intern | JS Technologies*  
+*Part-time | JS Technologies*  
 📍 Lahore, Pakistan &nbsp;|&nbsp; 📅 August 2024 – August 2025  
 
 - Contributed to the development of an *HRM System, **Real-time Chat Application, and **Travel Website*  
