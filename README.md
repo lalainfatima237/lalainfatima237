@@ -76,13 +76,29 @@ Cadet College Jhang (2017 – 2019)
 <h3 align="center">🛠️ Tech Stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,js,react,html,css,bootstrap" 
-       title="Python, Django, FastAPI, JavaScript, React, HTML5, CSS3, Bootstrap" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,js,react,html,css,bootstrap,tailwind"
+       title="Python, Django, FastAPI, JavaScript, React, HTML5, CSS3, Bootstrap, Tailwind CSS" />
 </p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,git,github,postman,vercel"
        title="PostgreSQL, MySQL, SQLite, Redis, Git, GitHub, Postman, Vercel" />
+</p>
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/DRF-Django%20REST%20Framework-092E20?style=for-the-badge&logo=django&logoColor=white"
+       title="Django REST Framework (DRF)" />
+
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"
+       title="REST API" />
+
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"
+       title="Swagger / OpenAPI" />
+
+  <img src="https://img.shields.io/badge/Data%20Scraping-6A1B9A?style=for-the-badge"
+       title="Data Scraping" />
+
 </p>
 
 <!-- <h3 align="center"> 💻Programming Languages</h3>
