@@ -73,6 +73,17 @@ Cadet College Jhang (2017 – 2019)
 ---
 
 ## 🛠️ Tech Stack & Skills
+<h3 align="center">🛠️ Tech Stack</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,js,react,html,css,bootstrap" 
+       title="Python, Django, FastAPI, JavaScript, React, HTML5, CSS3, Bootstrap" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,git,github,postman,vercel"
+       title="PostgreSQL, MySQL, SQLite, Redis, Git, GitHub, Postman, Vercel" />
+</p>
 
 <!-- <h3 align="center"> 💻Programming Languages</h3>
 <p align="center">
