@@ -87,18 +87,18 @@ Cadet College Jhang (2017 – 2019)
    <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react"/>
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery"/> 
  </p> 
-<p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> </p> -->
+<!-- <p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> </p>  -->
 
 <h3 align="center"> 🌐 Frontend Tools</h3>
 <p align="center"> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap"/> </p> 
 
 
- <h3 align="center"> 🧩 Frameworks & Libraries</h3>
- <p align="center">
+ 
+ <!-- <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap"/>
-</p>
+</p> -->
 <p align="center"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/Django_REST_Framework-ff1709?style=for-the-badge&logo=django"/> <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react"/> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery"/> </p> 
 
 
@@ -112,7 +112,7 @@ Cadet College Jhang (2017 – 2019)
   <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p> 
-<p align="center"> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens"/> <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge"/> </p>
+<!-- <p align="center"> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens"/> <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge"/> </p> -->
 
 <h3 align="center">🧪 Testing & API Tools</h3>
 <p align="center">
@@ -120,10 +120,10 @@ Cadet College Jhang (2017 – 2019)
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
 </p>
 <h3 align="center">🗄️ Databases</h3>
- <p align="center">
+ <!-- <p align="center">
   <img src="https://img.shields.io/badge/SQLite3-003B57?style=for-the-badge&logo=sqlite"/>
    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+</p> -->
  <p align="center"> <img src="https://img.shields.io/badge/SQLite3-003B57?style=for-the-badge&logo=sqlite"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> </p>
 
 
