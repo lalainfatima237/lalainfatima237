@@ -83,6 +83,43 @@ Cadet College Jhang (2017 – 2019)
   <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,git,github,postman,vercel" />
 </p>
 
+<h3 align="center">⚙️ Backend & APIs</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django,fastapi,python" />
+  <img src="https://img.shields.io/badge/Django%20REST%20Framework-FF1709?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white"/>
+</p>
+
+<h3 align="center">🧪 Testing & API Tools</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postman" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+</p>
+
+<h3 align="center">🗄️ Databases</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis" />
+</p>
+
+<h3 align="center">🔧 Other Skills</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github" />
+  <img src="https://img.shields.io/badge/OOP-4B8BBE?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Scraping-6A1B9A?style=for-the-badge"/>
+</p>
+
+<h3 align="center">🚀 Deployment</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vercel" />
+</p>
+
 <!-- <h3 align="center"> 💻Programming Languages</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/>
