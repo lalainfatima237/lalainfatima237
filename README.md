@@ -77,7 +77,7 @@ Cadet College Jhang (2017 – 2019)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,js,react,html,css,bootstrap,tailwind"
-       title="Python, Django, FastAPI, JavaScript, React, HTML5, CSS3, Bootstrap, Tailwind CSS" />
+       title="Python, Django, FastAPI, JavaScript, React, HTML5, CSS3, Bootstrap, Tailwind CSS, RESTAPI" />
 </p>
 
 <p align="center">
