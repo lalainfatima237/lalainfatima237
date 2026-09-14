@@ -99,7 +99,7 @@ Cadet College Jhang (2017 – 2019)
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap"/>
 </p> -->
-<p align="center"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/Django_REST_Framework-ff1709?style=for-the-badge&logo=django"/> <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react"/> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery"/> </p> 
+<!-- <p align="center"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/Django_REST_Framework-ff1709?style=for-the-badge&logo=django"/> <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react"/> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery"/> </p>  -->
 
 
  <h3 align="center">⚙️ Backend & APIs</h3>
